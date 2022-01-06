@@ -16,6 +16,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .width-size{
     width: 50%;
@@ -31,4 +32,53 @@ section{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 6px;
+}
+#mission {
+    font-size: 40px;
+    color: #781C68;
+    
+}
+#change{
+    color: #FF7800;
+}
+#alignment{
+    text-align: center;
+}
+.second{
+    display: flex;
+ 
+    
+}
+.sub{
+    display: flex;
+    align-items: center;
+}
+#mission{
+    margin-bottom: 20px;
+    
+}
+.vision{
+    width: 27%;
+    box-shadow: 10px 10px 6px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    background-color: #781C68;
+}
+.vision img{
+    width: 100%;
+}
+.third{
+    display: flex;
+}
+.about{
+    width: 50%;
+    padding: 5%;
+}
+.Forth{
+    display: flex;
+}
+.who{
+    width: 50%;
+    padding: 5%;
 }
